@@ -1,0 +1,25 @@
+git --(distributed) version control system (it tracks files record)
+-easily file recover
+-who introduce issue and when ?
+-rollback to previously working state 
+
+-it saves snapshot 
+-.git it has project history
+-every operation is local
+-git has integrity,it internally uses chechksum (if file changes ,git will tell about that)
+-git generally add data 
+
+
+github-hosting service (it host git repository)
+
+gibash -terminal (windows powershell) to run linux command 
+
+git config --global user.email "amrendra442000@gmail.com"
+
+git stauts :- to know the status of whether the directory is repository or not.
+
+git init :- to make a folder git repository
+
+git add --a to move all the file form untrak area to staging area (that area which you will commmit)
+
+git commit -m "Intial Stage"  ; to take the snapshot first time 
